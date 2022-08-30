@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["major","minor","patch"],
+      "dependencyDashboardApproval": true
+    }
+  ]
+}
